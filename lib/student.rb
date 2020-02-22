@@ -10,4 +10,5 @@ class Student
     @learn = learn 
     @@all = self
     
+  end
 end
